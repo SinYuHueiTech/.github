@@ -1,6 +1,6 @@
-# SinYuHueiTech 工程规范仓库
+# 鑫钰晖工程规范仓库
 
-本仓库是 [SinYuHueiTech](https://github.com/SinYuHueiTech) 组织的公共配置与工程规范存放处。
+本仓库是 [鑫钰晖](https://github.com/SinYuHueiTech) 组织的公共配置与工程规范存放处。
 
 ## 文档索引
 
